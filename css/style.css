@@ -1,0 +1,28 @@
+* {
+    font-family: 'Lucida Sans';
+}
+
+.navbar {
+    background-color: #5a7e5a;
+}
+
+main {
+    background-color: #5f83b8;
+    color: #eee;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.margin {
+    padding: 40px 0 20px 0;
+}
+
+.img-col8{
+    border-radius: 15px;
+}
+
+.bg-footer {
+    background-color: #5a7e5a;
+    font-weight: bold;
+    font-style: italic;
+}
